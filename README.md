@@ -6,5 +6,6 @@ This project uses specific algorithms or methods, e.g VPG, DDPG, TRPO and PPO to
 
 ### Dependencies
 Python 3
+
 OpenAI Gym
 
