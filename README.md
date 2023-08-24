@@ -1,8 +1,7 @@
-Reinforcement Learning Project
-Project Name is a reinforcement learning project aimed at [brief description of what the project does, e.g., "teaching agents to navigate a 3D environment"].
+## Reinforcement Learning Project
+This is a reinforcement learning project aimed at testing VPG, DDPG, TRPO and PPO in Cartpole and the Bipedal Walker Environments. 
 
-
-Overview
+### Overview
 This project uses [specific algorithms or methods, e.g., "Deep Q-Networks (DQN)"] to achieve [specific task, e.g., "optimal policy for navigation in unknown terrains"].
 
 Key Features:
